@@ -1,0 +1,8 @@
+{
+    "durations": [300, 600, 900, 1200],
+    "texts": ["First Timer", "Second Timer", "Third Timer", "Fourth Timer"],
+    "idle_yellow_duration": 300,
+    "idle_red_duration": 600,
+    "export_interval_hours": 1,
+    "export_interval_minutes": 0
+}

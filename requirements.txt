@@ -1,0 +1,7 @@
+pandas
+openpyxl
+RPi.GPIO
+numpy
+python-dateutil
+pytz
+tzdata
